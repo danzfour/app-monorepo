@@ -1,0 +1,45 @@
+{
+  "listedCategories": [
+    {
+      "_id": "63522a884a8ed11c5aafe849",
+      "name": "New",
+      "_name": "276584977"
+    },
+    {
+      "_id": "634fa057b09822e6cc873040",
+      "name": "Marketplaces",
+      "_name": "276584971"
+    },
+    {
+      "_id": "634fa057b09822e6cc87303d",
+      "name": "Social",
+      "_name": "276584972"
+    },
+    {
+      "_id": "634fa057b09822e6cc87303c",
+      "name": "Collectibles",
+      "_name": "276584973"
+    },
+    {
+      "_id": "634fa057b09822e6cc87303b",
+      "name": "Other",
+      "_name": "276584975"
+    },
+    {
+      "_id": "634fa057b09822e6cc87303a",
+      "name": "DeFi",
+      "_name": "276584968"
+    },
+    {
+      "_id": "634fa057b09822e6cc873039",
+      "name": "Games",
+      "_name": "276584970"
+    },
+    {
+      "_id": "634fa057b09822e6cc873038",
+      "name": "Exchanges",
+      "_name": "276584974"
+    }
+  ],
+  "tagDapps": []
+}
